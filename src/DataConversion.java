@@ -27,6 +27,7 @@ public class DataConversion {
                 // توضيح تأثير التحويل على دقة البيانات
                 double precisionLost = calculatedInterest - roundedInterest;
                 System.out.println("Precision Lost: " + precisionLost+"ugx");
+                System.out.println("thanks");
             }
         }
 
